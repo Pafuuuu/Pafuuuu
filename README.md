@@ -5,7 +5,8 @@
 
 📧 email: pvfuu@g.ucla.edu 
 
-🔗linkedin: [Clark Q](www.linkedin.com/in/xuanyao-qian-8216b5243)
+🔗linkedin: [Clark Q](www.linkedin.com/in/xuanyao-qian-clark)
+
 
 ### About Me 🫡
 - An enthusiastic data scientist pursuing a Bachelor's degree in Statistics and Data Science & Psychology from the University of California, Los Angeles (expected June 2025).
