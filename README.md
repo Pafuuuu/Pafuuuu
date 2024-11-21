@@ -8,7 +8,7 @@
 🔗linkedin: [Clark Q](www.linkedin.com/in/xuanyao-qian-8216b5243)
 
 ### About Me 🫡
-- An enthusiastic data scientist pursuing a Bachelor's degree in Statistics and Data Science & Psychology from the University of California, Los Angeles.
+- An enthusiastic data scientist pursuing a Bachelor's degree in Statistics and Data Science & Psychology from the University of California, Los Angeles (expected June 2025).
 - Hands-on experience in data analysis from various fields: tech/education/economy etc. Proficient user of Python, R, SQL, and Tableau. Using data to make a difference!
 - Detail-oriented, highly motivated self-learner. Excels in independent/collaborative working.
 - Love music, movies, cooking and life!
