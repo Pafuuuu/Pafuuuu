@@ -1,5 +1,5 @@
 # 👋 Hi, welcome to my Github Profile!
-## Xuanyao(Clark) Qian - Data Scientist/Analyst 🚀
+## Xuanyao (Clark) Qian - Data Scientist/Analyst 🚀
 -------------
 🕹️Los Angeles 
 
